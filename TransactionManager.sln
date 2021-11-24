@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionManager", "TransactionManager\TransactionManager.csproj", "{12162AD4-9376-49A0-9445-0D6939F4BA56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12162AD4-9376-49A0-9445-0D6939F4BA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12162AD4-9376-49A0-9445-0D6939F4BA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12162AD4-9376-49A0-9445-0D6939F4BA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12162AD4-9376-49A0-9445-0D6939F4BA56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0445B3-AB10-4DA7-BBB5-8EE3F605E945}
+	EndGlobalSection
+EndGlobal
